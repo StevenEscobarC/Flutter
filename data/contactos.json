@@ -1,0 +1,24 @@
+{
+    "_listaContactos" : [
+        {
+          "nombre": "Steven Escobar",
+          "telefono": "3116451525",
+          "iniciales": "SE"
+        },
+        {
+          "nombre": "Ricardo Valencia",
+          "telefono": "3116451526",
+          "iniciales": "RV"
+        },
+        {
+          "nombre": "Daniel De La Pava",
+          "telefono": "3116451527",
+          "iniciales": "DP"
+        },
+        {
+          "nombre": "Melissa Martinez",
+          "telefono": "3116451528",
+          "iniciales": "MM"
+        }
+      ]
+}
